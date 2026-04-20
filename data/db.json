@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Morning Motivation",
+      "datetime": "April 18, 2026 07:30:00 AM",
+      "body": "Start your day with positive energy and a clear goal in mind. Every small step counts!"
+    },
+    {
+      "id": "2",
+      "title": "Tech Update",
+      "datetime": "April 18, 2026 10:15:00 AM",
+      "body": "Exploring the latest trends in AI and machine learning. The future is exciting!"
+    },
+    {
+      "id": "3",
+      "title": "Travel Diaries",
+      "datetime": "April 17, 2026 06:45:00 PM",
+      "body": "Captured a beautiful sunset at the beach today. Nature never fails to amaze."
+    },
+    {
+      "id": "4",
+      "title": "Fitness Goals",
+      "datetime": "April 17, 2026 06:20:00 AM",
+      "body": "Completed a 5km run today! Consistency is the key to success."
+    },
+    {
+      "id": "5",
+      "title": "Food Love - Good Life",
+      "datetime": "April 20, 2026 03:42:00 PM",
+      "body": "Tried a new pasta recipe today. It turned out delicious!"
+    },
+    {
+      "id": "uDVXtEEpif8",
+      "title": "Good Vibes",
+      "datetime": "April 20, 2026 07:33:14 PM",
+      "body": "xtfcygvuhbijnoknkhoicg bkjnkb"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
